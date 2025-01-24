@@ -21,8 +21,8 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Enter your session-id",
-BOT_NUMBER: process.env.BOT_NUMBER || "Enter your botnumber (without + mark and spaces)",
-PASSWORD: process.env.PASSWORD || "Enter you like password",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Enter your github username",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "Enter your GITHUB_AUTH_TOKEN"
+BOT_NUMBER: process.env.BOT_NUMBER || "2348101699340",
+PASSWORD: process.env.PASSWORD || "258066Dj",
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "surdarkweb",
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
